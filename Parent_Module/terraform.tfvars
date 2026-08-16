@@ -3,6 +3,10 @@ rgs = {
     name     = "naren-tanuj"
     location = "centralindia"
   }
+  rg2 = {
+    name     = "nandu-mahi"
+    location = "centralindia"
+  }
 }
 # 3. VIRTUAL NETWORKS (2 VNets)
 vnets = {
