@@ -9,7 +9,7 @@ module "Vnet" {
   depends_on = [module.Resource_group]
 }
 
-# New ine coded
+# Today date added
 
 module "Subnet" {
   source     = "../xchild_Module/Subnet"
